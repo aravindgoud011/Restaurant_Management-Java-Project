@@ -31,3 +31,24 @@ RestaurantManagementSystem/
 ├── NormalBillingStrategy.java
 ├── HappyHourBillingStrategy.java
 └── RestaurantManagementSystem.java
+
+OUTPUT Of The CODE:
+RestaurantManagementSystem 
+---- Menu ----
+1. Biryani-Single - ₹230.0
+2. Biryani-Full - ₹500.0
+3. Roti-3 with panner - ₹350.0
+4. Thumsup - ₹50.0
+5. Sprite - ₹50.0
+6. Wine - ₹200.0
+Enter the item number to add to your order (or 0 to finish): 1
+Biryani-Single added to your order.
+Enter the item number to add to your order (or 0 to finish): 4
+Thumsup added to your order.
+Enter the item number to add to your order (or 0 to finish): 0
+---- Your Order ----
+Biryani-Single - ₹230.0
+Thumsup - ₹50.0
+Total Bill: ₹280.0
+With Discounts.....
+Total Bill during Happy Hour: ₹224.0
